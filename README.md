@@ -1,2 +1,3 @@
 # demo
-this is my first repository
+Ahis is my first repository.
+Author - Nikita Shinde
